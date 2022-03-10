@@ -1,5 +1,5 @@
 # Molecular-Docking-of-Metformin
-In silico simulation between metfomin and estrogen receptors (ERalpha and ERbeta) and androgen receptors (AR)
+In silico simulation between metfomin and oestrogen receptors (ERalpha and ERbeta) and androgen receptors (AR)
 
 This project is a computational approach enabling the binding simulation of metformin to the oestrogen receptors alpha and beta (ERα and ERβ) and androgen receptors (AR). 
 Molecular Docking simulations were calculated using Lamarckian genetic algorithm from Autodock4 program (http://autodock.scripps.edu/). 
