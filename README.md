@@ -23,6 +23,7 @@ Our main findings showed that metformin binds to androgen (AR) and oestrogen rec
 1) Metformin has a potential to be an endocrine disruptor, acting mainly at ERα. 
 2) Metformin heightened bonding preference toward Glu residues as demonstrated for ERα and ERβ simulations. 
 3) Metformin may have a weak agonist activity on AR.
+
 Further studies are needed to use metformin in pregnant women without impair the cardiovascular health of the future generation.
 
 This repository contains all files to open and visualize these in silico simulations.
