@@ -8,7 +8,7 @@ The 3D structures were obtained from Protein Data Bank (PDB): metformin (PDB ID:
 
 DockPrep of the receptors and ligands were performed thought removing water molecules, merging non-polar hydrogen atoms, and adding Gasteiger partial charges using Autodock tools 1.5.6 and Chimera 1.15 software’s. 
 
-The grid boxes constructed based on the coordinates of each crystal protein structure active centre (Autogrid 4, grid spacing 0.375 Å) were as follows (x, y, z): AR - 20 x 26 x 10 Å; ERα - 21 x 8 x 30 Å; ERβ –14 x 32 x 14 Å
+The grid boxes constructed based on the coordinates of each crystal protein structure active centre (Autogrid 4, grid spacing 0.375 Å) were as follows (x, y, z): AR - 20 x 26 x 10 Å; ERα - 21 x 8 x 30 Å; ERβ –14 x 32 x 14 Å. 
 
 RMSD values <2 validated the molecular docking between the receptors and natural ligands.
 
