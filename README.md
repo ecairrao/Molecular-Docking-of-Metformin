@@ -25,4 +25,4 @@ Further studies are needed to use metformin in pregnant women without impair the
 
 This repository contains all files to open and visualize these in silico simulations.
 
-You can find more information in the following publication: “Protein interaction network for identifying vascular response of Metformin (antidiabetic oral)” - Manuscript ID: biomedinformatics-1634130, MPDI - BioMedInformatics, minor revisions. Last Updated at 10-03-2022
+You can find more information in the following publication: “Protein Interaction Network for Identifying Vascular Response of Metformin (Oral Antidiabetic)” - https://doi.org/10.3390/biomedinformatics2020014. Last Updated at 26-03-2022
